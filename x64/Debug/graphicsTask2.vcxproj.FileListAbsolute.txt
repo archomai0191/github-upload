@@ -1,0 +1,4 @@
+C:\Users\archo\source\repos\graphicsTask2\x64\Debug\graphicsTask2.exe
+C:\Users\archo\source\repos\graphicsTask3\x64\Debug\graphicsTask3.exe
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask3\x64\Debug\graphicsTask3.exe
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\x64\Debug\graphicsTask4.exe

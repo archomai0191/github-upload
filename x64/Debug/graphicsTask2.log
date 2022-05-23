@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (graphicsTask2.vcxproj, graphicsTask3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  graphicsTask4.cpp
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(271,28): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(272,32): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(286,49): warning C4267: =: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(330,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(331,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(343,76): warning C4267: =: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\graphicsTask4.cpp(500,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  graphicsTask2.vcxproj -> C:\Users\archo\source\repos\ВГиКГ\graphicsTask4\x64\Debug\graphicsTask4.exe
